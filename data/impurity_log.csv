@@ -1,0 +1,11 @@
+date,supplier,impurity_percent
+2025-01-02,Supplier A,0.18
+2025-01-05,Supplier B,0.25
+2025-01-07,Supplier A,0.16
+2025-01-08,Supplier C,0.20
+2025-02-01,Supplier B,0.27
+2025-02-04,Supplier D,0.15
+2025-02-06,Supplier A,0.19
+2025-03-02,Supplier C,0.21
+2025-03-05,Supplier B,0.26
+2025-03-06,Supplier A,0.17

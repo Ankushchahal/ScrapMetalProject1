@@ -1,0 +1,11 @@
+date,batch_id,defective,total,defect_type,supplier
+2025-01-02,B001,5,100,Porosity,Supplier A
+2025-01-05,B002,8,120,Crack,Supplier B
+2025-01-07,B003,4,110,Cold Shut,Supplier A
+2025-01-08,B004,6,105,Porosity,Supplier C
+2025-02-01,B005,9,130,Blow Hole,Supplier B
+2025-02-04,B006,3,112,Cold Shut,Supplier D
+2025-02-06,B007,7,118,Porosity,Supplier A
+2025-03-02,B008,5,124,Crack,Supplier C
+2025-03-05,B009,10,128,Porosity,Supplier B
+2025-03-06,B010,4,115,Cold Shut,Supplier A

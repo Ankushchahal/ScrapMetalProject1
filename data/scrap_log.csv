@@ -1,0 +1,11 @@
+date,supplier,metal_type,weight_kg
+2025-01-02,Supplier A,Aluminium,1200
+2025-01-05,Supplier B,Zinc,900
+2025-01-07,Supplier A,Aluminium,1150
+2025-01-08,Supplier C,Aluminium,980
+2025-02-01,Supplier B,Zinc,850
+2025-02-04,Supplier D,Aluminium,1300
+2025-02-06,Supplier A,Zinc,970
+2025-03-02,Supplier C,Aluminium,1100
+2025-03-05,Supplier B,Zinc,890
+2025-03-06,Supplier A,Aluminium,1250
